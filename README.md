@@ -1,6 +1,6 @@
-# LeetCode-2026
+# LeetCode
 
-This repository records my LeetCode practice and solutions in 2026.
+This repository records my LeetCode practice and solutions.
 
 ## Language
 - C++
